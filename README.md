@@ -5,15 +5,10 @@
 Blog link: May not gonna update.
 
 * A ShellcodeLoader base on my another project(https://github.com/Kara-4search/Simple_ShellCodeLoader_CSharp), inspire by TheWover(https://github.com/TheWover).
-
 * The purpose is to bypass EDR 's APIs hook, or danger APIs dectection.
-
 * Use D/Invoke to load shellcode into memory.
-
 * **I removed a lot of unnecessary code from the original project, make the code easy for understanding.**
-
 * You could change the function name or do other magic works make it better for EDR bypassing.
-
 * I only tested it on x86 with the shellcode below(It is a calc shellcode), but it should be able to work on x64.
 
   ```c#
@@ -34,11 +29,7 @@ Blog link: May not gonna update.
   };
   ```
 
-
-
 * You could use API monitor(http://www.rohitab.com/apimonitor) to test the project, comparing with the SimpleLoader(https://github.com/Kara-4search/Simple_ShellCodeLoader_CSharp), You could see there is no API call via D/Invoke.
-
-
 
 
 
@@ -48,26 +39,21 @@ Blog link: May not gonna update.
 2. Launch it through some white list applications
 
 
-
 ## Comparing via API monitor
 
 There are mainly 3 APIs we are gonna monitor:
 
 * VirtualAlloc
-
 * CreateThread
-
 * WaitForSingleObject
 
   
-
 1. You could see the picture below, the SimpleLoader' s API call caught by API monitor.
-
    ![avatar](https://raw.githubusercontent.com/Kara-4search/tempPic/main/APIMon-Result1.png)
 
 2. And the **DInvoke ShellcodeLoader**'s API call was not caught by API monitor.
-
    ![avatar](https://raw.githubusercontent.com/Kara-4search/tempPic/main/APIMon-Result2.png)
+
 
 ## Reference link:
 
@@ -79,7 +65,5 @@ There are mainly 3 APIs we are gonna monitor:
 6. https://github.com/TheWover/DInvoke
 7. http://www.rohitab.com/discuss/topic/38807-api-monitor-v2-r10-release-instant-monitoring-without-definitions-support-for-dllmain-and-early-apis-windows-8/
 8. https://vimeo.com/566964438
-
 9. https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createthread
-
 10. https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualstudio.shell.interop.vsdebugstartupinfo.dwcreationflags?view=visualstudiosdk-2019
