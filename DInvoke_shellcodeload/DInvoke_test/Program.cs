@@ -30,8 +30,8 @@ namespace DInvoke_Code
               0x00,0x53,0xff,0xd5,0x63,0x61,0x6c,0x63,0x2e,0x65,0x78,0x65,0x00
             };
 
-            Console.WriteLine((uint)codepent.Length);
-            System.Threading.Thread.Sleep(10000);
+            // Console.WriteLine((uint)codepent.Length);
+            // System.Threading.Thread.Sleep(10000);
             IntPtr func_ptr = IntPtr.Zero;
             // IntPtr pHandle = Process.GetCurrentProcess().Handle;
             
