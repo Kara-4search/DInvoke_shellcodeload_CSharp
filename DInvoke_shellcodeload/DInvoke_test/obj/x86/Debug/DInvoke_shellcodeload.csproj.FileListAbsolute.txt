@@ -1,0 +1,14 @@
+C:\Project\Projects\Project_DInvoke_test\DInvoke_test\DInvoke_test\bin\x86\Debug\DInvoke_test.exe.config
+C:\Project\Projects\Project_DInvoke_test\DInvoke_test\DInvoke_test\bin\x86\Debug\DInvoke_test.exe
+C:\Project\Projects\Project_DInvoke_test\DInvoke_test\DInvoke_test\bin\x86\Debug\DInvoke_test.pdb
+C:\Project\Projects\Project_DInvoke_test\DInvoke_test\DInvoke_test\obj\x86\Debug\DInvoke_shellcodeload.csprojAssemblyReference.cache
+C:\Project\Projects\Project_DInvoke_test\DInvoke_test\DInvoke_test\obj\x86\Debug\DInvoke_shellcodeload.csproj.CoreCompileInputs.cache
+C:\Project\Projects\Project_DInvoke_test\DInvoke_test\DInvoke_test\obj\x86\Debug\DInvoke_test.exe
+C:\Project\Projects\Project_DInvoke_test\DInvoke_test\DInvoke_test\obj\x86\Debug\DInvoke_test.pdb
+C:\Project\Projects\Project_DInvoke_Shellcodeload\DInvoke_shellcodeload\DInvoke_test\bin\x86\Debug\DInvoke_test.exe.config
+C:\Project\Projects\Project_DInvoke_Shellcodeload\DInvoke_shellcodeload\DInvoke_test\bin\x86\Debug\DInvoke_test.exe
+C:\Project\Projects\Project_DInvoke_Shellcodeload\DInvoke_shellcodeload\DInvoke_test\bin\x86\Debug\DInvoke_test.pdb
+C:\Project\Projects\Project_DInvoke_Shellcodeload\DInvoke_shellcodeload\DInvoke_test\obj\x86\Debug\DInvoke_shellcodeload.csprojAssemblyReference.cache
+C:\Project\Projects\Project_DInvoke_Shellcodeload\DInvoke_shellcodeload\DInvoke_test\obj\x86\Debug\DInvoke_shellcodeload.csproj.CoreCompileInputs.cache
+C:\Project\Projects\Project_DInvoke_Shellcodeload\DInvoke_shellcodeload\DInvoke_test\obj\x86\Debug\DInvoke_test.exe
+C:\Project\Projects\Project_DInvoke_Shellcodeload\DInvoke_shellcodeload\DInvoke_test\obj\x86\Debug\DInvoke_test.pdb
