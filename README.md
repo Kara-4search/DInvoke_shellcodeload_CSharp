@@ -30,7 +30,7 @@ Blog link: May not gonna update.
   ```
 
 * You could use API monitor(http://www.rohitab.com/apimonitor) to test the project, comparing with the SimpleLoader(https://github.com/Kara-4search/Simple_ShellCodeLoader_CSharp), You could see there is no API call via D/Invoke.
-
+* Kernel functions are not good enough，you could even do the ntdll version of this.
 
 
 ## Usage
